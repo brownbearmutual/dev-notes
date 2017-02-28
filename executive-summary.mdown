@@ -1,0 +1,31 @@
+
+# Sections
+
+[ ] Landing
+[ ] FAQ
+[ ] About 
+[ ] Application
+
+# Business overview
+* **What do we do?**
+  - We act as a digital agent or liaison between insured and insurer
+    + Selling policies
+    + Managing policies
+    + Handling claims
+* **What differentiates us?**
+  - Self-service
+  - Policy application
+    + Sell 
+      * Explore various policy options affect on price
+      * Allow instant purchase 
+    + Manage
+      * Change policy terms
+      * Catalogue personal property
+      * Submit a claim
+      * Check the status of a claim
+  - Month to month or Annual contracts
+  - Easily add on-demand coverage for non-standard items
+
+
+
+
